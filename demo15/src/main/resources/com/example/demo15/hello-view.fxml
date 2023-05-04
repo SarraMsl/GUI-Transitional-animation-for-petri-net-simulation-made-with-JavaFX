@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Polyline?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane" prefHeight="850.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo15.Controller">
+    <children>
+        <Line fx:id="t42" endX="-30.0" layoutX="543.0" layoutY="213.0" startX="-100.0" />
+        <Circle fill="#f41fff2f" layoutX="142.0" layoutY="214.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="283.0" layoutY="214.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="417.0" layoutY="214.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="680.0" layoutY="214.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="818.0" layoutY="214.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="142.0" layoutY="432.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="283.0" layoutY="432.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="419.0" layoutY="432.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="545.0" layoutY="432.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="419.0" layoutY="334.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="205.0" layoutY="171.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="474.0" layoutY="171.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="604.0" layoutY="170.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="750.0" layoutY="171.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="72.0" layoutY="171.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="72.0" layoutY="389.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="205.0" layoutY="390.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="340.0" layoutY="390.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="480.0" layoutY="390.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="604.0" layoutY="390.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="873.0" layoutY="171.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Line fx:id="t32" endX="-12.0" layoutX="269.0" layoutY="214.0" startX="-101.0" />
+        <Circle fill="#f41fff2f" layoutX="539.0" layoutY="214.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f41fff2f" height="86.0" layoutX="342.0" layoutY="171.0" stroke="BLACK" strokeType="INSIDE" width="13.0" />
+        <Line fx:id="t33" endX="-14.0" layoutX="407.0" layoutY="214.0" startX="-100.0" />
+        <Circle fill="#f41fff2f" layoutX="212.0" layoutY="64.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Polyline fx:id="t11" fill="#16260700" layoutX="187.0" layoutY="269.0" points="-1.0, 277.0, -156.60000610351562, 245.4000244140625, -156.60000610351562, 163.0, -71.0, 163.0" strokeType="INSIDE" />
+        <Line fx:id="t35" endX="186.0" endY="238.0" layoutX="225.0" layoutY="68.0" startX="13.0" startY="10.0" />
+        <Line fx:id="t12" endX="-12.0" layoutX="269.0" layoutY="433.0" startX="-100.0" />
+        <Line fx:id="t13" endX="-14.0" layoutX="407.0" layoutY="432.0" startX="-100.0" />
+        <Line fx:id="t22" endX="-24.0" layoutX="543.0" layoutY="431.0" startX="-100.0" />
+        <Circle fill="#f41fff2f" layoutX="212.0" layoutY="546.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Polyline fx:id="t31" fill="#16260700" layoutX="168.0" layoutY="45.0" points="18.0, 19.0, -128.0, 61.19999694824219, -147.0, 171.0, -53.0, 171.0" strokeType="INSIDE" />
+        <Polyline fx:id="t23" fill="#80ff0000" layoutX="627.0" layoutY="453.0" points="-57.0, -20.79998779296875, 72.5999755859375, -20.79998779296875, -33.4000244140625, 93.0, -108.0, 93.0" scaleZ="10.0" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="493.0" layoutY="541.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Polyline fx:id="t15" fill="#80ff0000" layoutX="360.0" layoutY="533.0" points="106.0, 0.20001220703125, -13.0, -100.0, -122.0, 0.20001220703125, -122.0, 0.20001220703125" strokeType="INSIDE" />
+        <Line fx:id="t14" endX="190.0" endY="280.0" layoutX="236.0" layoutY="79.0" startX="3.0" startY="455.20001220703125" />
+        <Polyline fx:id="t34" fill="#80ff0000" layoutX="357.0" layoutY="157.0" points="96.0, -99.80000305175781, -15.0, 57.0, -119.0, -79.0, -119.0, -79.0" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="479.0" layoutY="61.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Line fx:id="t43" endX="-15.0" layoutX="667.0" layoutY="213.0" startX="-100.0" />
+        <Line fx:id="t51" endX="-15.0" layoutX="807.0" layoutY="212.0" startX="-100.0" />
+        <Polyline fx:id="t44" fill="#80ff0000" layoutX="623.0" layoutY="155.0" points="96.0, -99.80000305175781, -15.0, 57.0, -119.0, -79.0, -119.0, -79.0" strokeType="INSIDE" />
+        <Circle fill="#f41fff2f" layoutX="745.0" layoutY="55.0" radius="26.0" stroke="BLACK" strokeType="INSIDE" />
+        <Polyline fx:id="t52" fill="#80ff0000" layoutX="882.0" layoutY="118.0" points="-116.20001220703125, -57.19999694824219, 72.5999755859375, -20.79998779296875, 20.79998779296875, 93.0, -37.20001220703125, 93.0" strokeType="INSIDE" />
+        <Polyline fx:id="t41" fill="#80ff0000" layoutX="440.0" layoutY="253.0" points="4.5999755859375, -40.0, 47.0, -40.0, -3.399993896484375, 66.79998779296875, -3.399993896484375, 66.79998779296875" strokeType="INSIDE" />
+        <Polyline fx:id="t21" fill="#80ff0000" layoutX="503.0" layoutY="293.0" points="-68.39999389648438, 57.79998779296875, -21.999969482421875, 137.5, -58.0, 137.5, -60.5, 137.5" strokeType="INSIDE" />
+        <Label fx:id="p31" layoutX="204.0" layoutY="44.0" text="1">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p32" layoutX="134.0" layoutY="196.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p41" layoutX="470.0" layoutY="41.0" text="1">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p51" layoutX="737.0" layoutY="37.0" text="1">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p21" layoutX="484.0" layoutY="521.0" text="1">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p00" layoutX="411.0" layoutY="315.0" text="1">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p11" layoutX="205.0" layoutY="526.0" text="1">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p33" layoutX="275.0" layoutY="195.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p42" layoutX="408.0" layoutY="194.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p43" layoutX="531.0" layoutY="193.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p52" layoutX="672.0" layoutY="195.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p53" layoutX="810.0" layoutY="195.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p22" layoutX="538.0" layoutY="414.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p23" layoutX="412.0" layoutY="414.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p13" layoutX="275.0" layoutY="413.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label fx:id="p12" layoutX="134.0" layoutY="414.0" prefHeight="18.0" prefWidth="0.0" text="0">
+            <font>
+                <Font size="28.0" />
+            </font>
+        </Label>
+        <Label layoutX="190.0" layoutY="5.0" text="sec.libre3" />
+        <Label layoutX="193.0" layoutY="579.0" text="sec.libre1" />
+        <Label layoutX="471.0" layoutY="579.0" text="sec.libre2" />
+        <Label layoutX="453.0" layoutY="5.0" text="sec.libre4" />
+        <Label layoutX="720.0" layoutY="5.0" text="sec.libre5" />
+        <Label layoutX="339.0" layoutY="317.0" text="Espace" />
+        <Label layoutX="128.0" layoutY="248.0" text="Mvt3" />
+        <Label layoutX="406.0" layoutY="248.0" text="Mvt4" />
+        <Label layoutX="669.0" layoutY="247.0" text="Mvt5" />
+        <Label layoutX="413.0" layoutY="382.0" text="Mvt2" />
+        <Label layoutX="131.0" layoutY="380.0" text="Mvt1" />
+        <Label layoutX="272.0" layoutY="373.0" text="porte1" />
+        <Label layoutX="527.0" layoutY="371.0" text="porte2" />
+        <Label layoutX="265.0" layoutY="248.0" text="porte3" />
+        <Label layoutX="521.0" layoutY="247.0" text="porte4" />
+        <Label layoutX="803.0" layoutY="256.0" text="porte5" />
+      <Label text="Label" />
+      <Label layoutX="72.0" layoutY="362.0" text="T0" />
+      <Label layoutX="72.0" layoutY="148.0" text="T2" />
+      <Label layoutX="202.0" layoutY="353.0" text="T5" />
+      <Label layoutX="205.0" layoutY="141.0" text="T9" />
+      <Label layoutX="340.0" layoutY="141.0" text="T3" />
+      <Label layoutX="467.0" layoutY="141.0" text="T7" />
+      <Label layoutX="605.0" layoutY="141.0" text="T4" />
+      <Label layoutX="743.0" layoutY="131.0" text="T8" />
+      <Label layoutX="866.0" layoutY="140.0" text="T10" />
+      <Label layoutX="338.0" layoutY="353.0" text="T1" />
+      <Label layoutX="471.0" layoutY="353.0" text="T6" />
+      <Label layoutX="595.0" layoutY="353.0" text="T11" />
+    </children>
+</AnchorPane>
